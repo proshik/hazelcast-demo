@@ -1,0 +1,16 @@
+ru\proshik\prof_of_concept\clerk\other\ClientApplicationNew.class
+ru\proshik\prof_of_concept\clerk\service\TaskItemListener.class
+ru\proshik\prof_of_concept\clerk\other\ServerApplication.class
+ru\proshik\prof_of_concept\clerk\service\TaskService.class
+ru\proshik\prof_of_concept\clerk\service\MyTaskExecutor.class
+ru\proshik\prof_of_concept\clerk\model\MyTask.class
+ru\proshik\prof_of_concept\clerk\exception\TaskException.class
+ru\proshik\prof_of_concept\clerk\controller\TaskController.class
+ru\proshik\prof_of_concept\clerk\other\TransactionalClient.class
+ru\proshik\prof_of_concept\clerk\config\HazelcastConfig.class
+ru\proshik\prof_of_concept\clerk\other\ServerTransactionApplication.class
+ru\proshik\prof_of_concept\clerk\service\TaskQueueListener.class
+ru\proshik\prof_of_concept\clerk\service\TaskExecutorService.class
+ru\proshik\prof_of_concept\clerk\service\TaskExecutorService$1.class
+ru\proshik\prof_of_concept\clerk\ClerkApplication.class
+ru\proshik\prof_of_concept\clerk\other\ClientApplication.class
