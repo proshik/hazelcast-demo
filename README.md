@@ -1,3 +1,3 @@
 # Clerk service
 
-**Demo project for testing using Hazelcast for cache**
+**Demo project for reseach using Hazelcast as cache**
